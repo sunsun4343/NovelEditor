@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         //발음기호 표시기능
         //맞춤법 검사기능
         //추가 후처리 번역 헬퍼
-        
+
 
 
 
